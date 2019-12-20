@@ -1,9 +1,42 @@
-# Mockstar
+<h1 align="center">Mockstar</h1>
 
-Mocking HTTP API calls like a Rockstar.
+<p align="center"><img src="https://raw.githubusercontent.com/AubergineDevelopers/Mockstar/master/screenshots/icon.png" alt="logo"></p>
+
+<h2 align="center">Mocking HTTP API calls like a Rockstar :guitar:</h2>
+
+<p align="center"><img src="https://raw.githubusercontent.com/AubergineDevelopers/Mockstar/master/screenshots/demo.gif"></p>
+
+## Screenshots
+<table>
+    <tr>
+        <th>
+            HomeScreen
+        </th>
+        <th>
+            DetailsScreen
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/AubergineDevelopers/Mockstar/master/screenshots/1.png" />
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/AubergineDevelopers/Mockstar/master/screenshots/2.png" />
+        </td>
+    </tr>
+</table>
+
+## Dependencies
+- [provider](https://pub.dev/packages/provider)
+
+- [dio](https://pub.dev/packages/dio)
+
+- [palette_generator](https://pub.dev/packages/palette_generator)
+
+## Contributing
+Feel free to contribute to the project by creating [issues](https://github.com/AubergineDevelopers/Mockstar/issues) or sending pull-requests.
 
 ## Getting Started
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
