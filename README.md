@@ -26,6 +26,20 @@
     </tr>
 </table>
 
+## Setup
+- Get an API key from [TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
+
+- Put the API key in [constants.dart](https://github.com/AubergineDevelopers/Mockstar/blob/master/lib/utils/constants.dart)
+
+```
+abstract class Constants {
+    
+  // ...
+
+  static const String kTmdbApiKey = 'YOUR_API_KEY';
+}
+```
+
 ## Dependencies
 - [provider](https://pub.dev/packages/provider)
 
